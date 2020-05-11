@@ -1,0 +1,2 @@
+# AndroidResEncryptDemo
+AndroidResEncryptDemo
